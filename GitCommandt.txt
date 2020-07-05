@@ -1,4 +1,17 @@
 1) What is the difference between Git and GitHub?
     The key difference between Git and GitHub is that Git is an open-source tool developers install locally to manage source code, while GitHub is an online service to which       developers who use Git can connect and upload or download resources.
 
-2) 
+2)  List of all Basic Git Command.
+    a) git init <directory>
+       Create an empty Git repository in specified directory.Run with no arguments to initialize the current directory as a git repository(.git)
+    b) git clone <repository>
+       clone / download a repository onto local machine.
+    c) git clone [URL] [folder]
+       clone a repository from a remote location into a specified folder [folder] on our local machine.
+    d)
+
+
+
+       
+
+   
