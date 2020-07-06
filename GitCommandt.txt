@@ -8,7 +8,85 @@
        clone / download a repository onto local machine.
     c) git clone [URL] [folder]
        clone a repository from a remote location into a specified folder [folder] on our local machine.
-    d)
+    d) git branch
+       list all branches in the repository
+    e) git branch -a
+       list all the remote branches
+    f) git branch [branch]
+       create a new branch under the specified name.
+    g) git checkout [branch]
+       switch to another branch [ an existing one]
+    h) git checkout -b <branch>
+       Create and check out a new branch named <branch>. Drop the -b flag to checkout an existing branch.
+    i) git branch -d [branch]
+       delete a local branch
+    j) git branch -m [new_branch_name]
+       rename the branch we are currently working in
+    k) git merge [branch]
+       merge the specified branch with the current branch
+    l) git config user.name <name>
+       Define author name to be used for all commits in current repository.
+    m) git add [file/directory]
+       Stage all changes in <directory> or a <file> for the next commit.
+    n) git add .
+       stage everything in the directory for an initial commit.
+    o) git commit -m "[descriptive_message]"
+       Commit the staged snapshot,use <message> as the commit message.
+    p) git status
+       show the state of the current directory (along with staged,unstaged, and untracked files)
+    q) git log
+       list the complete commit history of the current branch.
+    r) git log --all
+       list all commits from all branches.
+    s) git diff
+       It shows the difference between the working directory and the index(which changes have not been commited yet).
+    t) git remote add [name][URL]
+       create a new connection to a remote repository and give it a name to serve as a shortcut to the URL.
+    u) git fetch [remote_repo][branch]
+       fetch a branch from a remote repository
+    v) git pull [remote_repo]
+       fetch the specified repository and merge it with the local copy
+    w) git push [remote_repo][branch]
+       push a branch to a remote repository with all its commits and objects.
+
+
+
+
+
+       
+
+
+
+
+
+
+
+
+
+
+
+
+       
+
+       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
