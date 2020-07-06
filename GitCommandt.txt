@@ -49,6 +49,29 @@
     w) git push [remote_repo][branch]
        push a branch to a remote repository with all its commits and objects.
 
+ 3)  Steps for pushing(Check-In) the code in git repository?
+     a) git init
+     b) git add remote origin <url>
+     c) git status
+     d) git add .(everything in the directory for an initial commit.)
+     e) git status ( again we check the status)
+     f) git commit -m " test"
+     g) git push origin master
+      Error occurs (permission denied we get while pushing the code to branch).To access SSH key is needed(Through putty it can be generated).
+      add SSH key ( again run)
+     h) git push origin master(ask for laptop password) - enter - Complete code will be pushed to git repository.
+     
+ 4) steps for pulling/Checkout  the code.
+    a) Go to command prompt ,make own directory (mkdir selenium)-Go to selenium directory
+    b) git clone 
+     
+    
+     
+  
+     
+     
+     
+    
 
 
 
