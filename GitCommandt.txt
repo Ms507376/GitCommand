@@ -63,7 +63,13 @@
      
  4) steps for pulling/Checkout  the code.
     a) Go to command prompt ,make own directory (mkdir selenium)-Go to selenium directory
-    b) git clone 
+    b) git clone https://github.com/Ms507376/SeleniumJava.git ( while pulling the code cloning is needed  to copy code in local machine)- Code is present in local dir
+    c) open eclipse--> importcode
+    d)If someone is again modifying the code in repository (How to take again in local)
+      git pull origin master(Clone is done only once ,pull can be done multiple times)
+      
+      
+      
      
     
      
