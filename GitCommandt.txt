@@ -4,6 +4,7 @@
 2)  List of all Basic Git Command.
     a) git init <directory>
        Create an empty Git repository in specified directory.Run with no arguments to initialize the current directory as a git repository(.git)
+       By executing this command  "git init” , a .git directory will be created inside the project directory.
     b) git clone <repository>
        clone / download a repository onto local machine.
     c) git clone [URL] [folder]
