@@ -69,6 +69,35 @@
     d)If someone is again modifying the code in repository (How to take again in local)
       git pull origin master(Clone is done only once ,pull can be done multiple times)
       
+ 5) How will you differentiate between git pull and git fetch?
+     Git pull :It pulls all new commits from a specific branch in the central repository and makes the target branch in our local repository up-to-date.
+     Git fetch:All the new commits from a specific branch will be pulled in our central repository and these changes will be stored in a new branch in our local repository.                  This is called a fetched branch.
+ 6)
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
       
       
      
